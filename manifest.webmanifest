@@ -1,0 +1,20 @@
+{
+  "name": "Japanese Pop! — 나 혼자 일본어 미션",
+  "short_name": "Japanese Pop!",
+  "description": "초등학생을 위한 하루 10~15분 일본어 미션 앱",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff7fb",
+  "theme_color": "#d94f83",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
